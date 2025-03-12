@@ -1,1 +1,0 @@
-# A-Java-program-to-calculate-the-sum-of-the-main-diagonal-and-secondary-diagonal-of-a-square-matrix
